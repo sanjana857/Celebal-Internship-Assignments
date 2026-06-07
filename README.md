@@ -55,3 +55,18 @@ Topics covered:
 
 Sanjana
 Celebal Technologies Summer Internship
+
+### Week 3 - Advanced SQL Concepts
+
+This week's assignment focused on learning advanced SQL concepts and applying them to solve business problems using the Sample Superstore dataset.
+
+Topics covered:
+
+* Creating normalized database tables
+* Using SELECT DISTINCT
+* Writing Subqueries
+* Implementing Common Table Expressions (CTEs)
+* Using Window Functions (ROW_NUMBER and RANK)
+* Combining JOIN, CTE and Window Functions
+* Solving customer sales analysis problems
+* Generating business insights from SQL queries
