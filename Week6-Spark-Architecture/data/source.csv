@@ -1,0 +1,76 @@
+product_id,old_name,category,price,base_price,status,amount,user_id,region,priority
+P101,Laptop,Electronics,54585.08,49398,Completed,3316,,North,Medium
+P102,Router,Electronics,30054.4,28451,Completed,1252,U1002,North,Medium
+P103,Jacket,Fashion,9178.16,7859,Pending,326,U1003,South,Medium
+P104,Microwave,Appliances,24461.65,22379,Pending,718,U1004,North,High
+P105,Water Purifier,Appliances,44424.19,36671,Pending,2496,U1005,North,Low
+P106,Watch,Fashion,10580.82,9544,Pending,1781,U1006,South,Medium
+P107,SSD,Electronics,18954.6,15735,Cancelled,1253,U1007,North,High
+P108,Smart Watch,Fashion,3556.45,3164,Completed,1393,U1008,North,Medium
+P109,Bookshelf,Furniture,13947.05,12208,Completed,2921,U1009,South,Medium
+P110,Mouse,Electronics,57740.75,54657,Completed,1396,U1010,North,High
+P111,Refrigerator,Appliances,76142.64,67435,Cancelled,2179,U1011,South,High
+P112,Cabinet,Furniture,45212.83,39811,Completed,1782,,South,Low
+P113,Stool,Furniture,8957.02,7457,Pending,926,U1013,South,Low
+P114,Watch,Fashion,7663.51,6804,Cancelled,2467,U1014,East,Low
+P115,SSD,Electronics,51535.1,48033,Pending,3375,U1015,East,Low
+P116,Mixer,Appliances,46011.35,40469,Completed,3257,U1016,East,Low
+P117,Table,Furniture,47138.48,42479,Pending,2794,U1017,South,High
+P118,Chair,Furniture,45431.6,40752,Completed,1786,U1018,East,High
+P119,Table,Furniture,8509.86,7113,Pending,3415,U1019,South,High
+P120,Backpack,Fashion,5595.1,4842,Pending,1167,U1020,South,Medium
+P121,Smart Watch,Fashion,9442.12,7677,Completed,1315,U1021,South,High
+P122,Router,Electronics,40663.55,37101,Completed,590,U1022,North,High
+P123,Printer,Electronics,6274.86,5443,Completed,2288,,South,Medium
+P124,Jacket,Fashion,9993.66,8249,Completed,697,U1024,West,High
+P125,Wallet,Fashion,1643.14,1387,Cancelled,703,U1025,North,Medium
+P126,Mixer,Appliances,37646.01,34591,Completed,874,U1026,West,High
+P127,Jacket,Fashion,1975.52,1735,Pending,2554,U1027,North,High
+P128,Mobile,Electronics,73855.86,61510,Completed,1964,U1028,West,Medium
+P129,Shoes,Fashion,3599.17,3197,Cancelled,1386,U1029,West,High
+P130,Backpack,Fashion,4005.83,3611,Cancelled,2672,U1030,North,Medium
+P131,Laptop,Electronics,44765.16,39084,Cancelled,2475,U1031,South,High
+P132,Keyboard,Electronics,6184.05,5290,Pending,1263,U1032,West,High
+P133,Chair,Furniture,44885.7,42091,Pending,2615,U1033,East,Low
+P134,Desk,Furniture,18909.73,17142,Completed,2943,,East,Medium
+P135,Laptop,Electronics,36206.26,30834,Completed,709,U1035,North,Medium
+P136,Air Conditioner,Appliances,58543.62,47745,Pending,1813,U1036,East,High
+P137,Fan,Appliances,50987.12,41240,Completed,850,U1037,East,High
+P138,Webcam,Electronics,40060.86,37056,Completed,1162,U1038,East,High
+P139,Vacuum Cleaner,Appliances,42981.48,34914,Pending,678,U1039,West,Low
+P140,Laptop,Electronics,27286.51,22659,Pending,1372,U1040,South,Medium
+P141,Shoes,Fashion,2483.69,2332,Pending,910,U1041,North,Low
+P142,Dining Table,Furniture,10427.02,9852,Completed,463,U1042,East,High
+P143,Table,Furniture,29762.24,24678,Pending,1964,U1043,South,Low
+P144,Sofa,Furniture,16067.99,13103,Completed,3316,U1044,East,Low
+P145,Jacket,Fashion,5269.64,4871,Pending,1866,,North,Low
+P146,Bookshelf,Furniture,35463.76,31666,Pending,1232,U1046,South,High
+P147,Dining Table,Furniture,25444.84,23012,Completed,3467,U1047,East,High
+P148,Smart Watch,Fashion,1021.56,952,Cancelled,1031,U1048,East,High
+P149,Smart Watch,Fashion,6413.12,5639,Cancelled,773,U1049,West,Low
+P150,Cabinet,Furniture,5253.27,4408,Completed,2505,U1050,South,High
+P151,SSD,Electronics,68238.03,61143,Completed,810,U1051,East,Medium
+P152,Smart Watch,Fashion,8435.52,7092,Completed,1085,U1052,West,Medium
+P153,Backpack,Fashion,12317.88,10584,Completed,301,U1053,East,High
+P154,Smart Watch,Fashion,9241.18,8118,Pending,2393,U1054,West,Low
+P155,Table,Furniture,23174.81,20098,Pending,1672,U1055,North,Low
+P156,Cabinet,Furniture,19649.91,16222,Completed,489,,South,Low
+P157,Speaker,Electronics,34313.28,27960,Completed,3242,U1057,West,Medium
+P158,Sofa,Furniture,52838.9,44495,Pending,3454,U1058,North,Low
+P159,Sofa,Furniture,40509.3,35444,Completed,797,U1059,West,High
+P160,Smart Watch,Fashion,9088.28,7751,Pending,2367,U1060,West,Low
+P161,Backpack,Fashion,9435.9,8277,Pending,2911,U1061,East,Low
+P162,Jacket,Fashion,5688.73,4999,Pending,1260,U1062,East,High
+P163,Keyboard,Electronics,11712.36,10684,Pending,3193,U1063,South,High
+P164,Smart Watch,Fashion,10734.51,9390,Completed,2020,U1064,West,Low
+P165,Router,Electronics,29468.75,25728,Cancelled,1523,U1065,West,Low
+P166,Jacket,Fashion,9296.92,8499,Completed,418,U1066,West,High
+P167,Backpack,Fashion,10064.99,8157,Cancelled,2487,,North,Low
+P168,Mobile,Electronics,48748.62,42923,Pending,1044,U1068,North,High
+P169,Refrigerator,Appliances,68704.51,61598,Pending,1852,U1069,East,Low
+P170,T-Shirt,Fashion,2106.22,1841,Pending,513,U1070,East,High
+P171,SSD,Electronics,4128.51,3438,Cancelled,1116,U1071,North,Medium
+P172,Sofa,Furniture,38517.92,32535,Completed,1192,U1072,West,Medium
+P173,Air Conditioner,Appliances,20508.96,17012,Completed,1574,U1073,North,Medium
+P174,Washing Machine,Appliances,66855.5,53990,Completed,2725,U1074,South,High
+P175,Mixer,Appliances,8264.83,7383,Completed,1817,U1075,North,Medium
